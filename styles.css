@@ -1,0 +1,13 @@
+img {
+    height:auto;
+    width:500px;
+}
+
+h1,
+h3 {
+    background-color:beige;
+}
+
+body {    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
